@@ -1,6 +1,7 @@
+104.26.12.28#联通xnic
+162.159.136.156#联通xnic
 www.npmjs.com
 static-production.npmjs.com
-
 www.sttmall.hk
 www.d-555.com
 cnamefuckxxs.yuchen.icu
