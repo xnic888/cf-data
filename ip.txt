@@ -1,3 +1,4 @@
+blog.hostmonit.com
 aliyun.godns.onflashdrive.app#天诚
 sp.rweek.top
 hk.rweek.top:2052
