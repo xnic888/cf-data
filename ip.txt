@@ -1,6 +1,7 @@
+cf.090227.xyz
 blog.skk.moe
 blog.hostmonit.com
-aliyun.godns.onflashdrive.app#天诚
+aliyun.godns.onflashdrive.app:2096#天诚
 sp.rweek.top
 hk.rweek.top:2052
 xosodaiphat.com
