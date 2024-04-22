@@ -4,6 +4,9 @@ hk.rweek.top:2052
 xosodaiphat.com
 www.zjcp.com
 45.136.236.179#xnic-TH
+172.64.228.0#联通xnic
+104.20.27.0#联通xnic
+162.159.58.0#联通xnic
 104.26.12.28#联通xnic
 162.159.136.156#联通xnic
 www.npmjs.com
