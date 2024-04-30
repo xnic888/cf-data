@@ -1,3 +1,14 @@
+proxyip.kr.prianganmedia.eu.org
+proxyip.de.prianganmedia.eu.org
+proxyip.hk.prianganmedia.eu.org
+proxyip.sg.prianganmedia.eu.org
+proxyip.us.prianganmedia.eu.org
+proxyip.tw.prianganmedia.eu.org
+proxyip.fr.prianganmedia.eu.org
+proxyip.gb.prianganmedia.eu.org
+proxyip.jp.prianganmedia.eu.org
+proxyip.nl.prianganmedia.eu.org
+proxyip.ru.prianganmedia.eu.org
 104.18.42.190:2096#随机IP
 172.64.147.21:2053#随机IP
 172.64.152.202:2096#随机IP
