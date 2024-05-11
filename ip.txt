@@ -1,3 +1,9 @@
+workers.cloudflare.cyou
+my-telegram-is-herocore.onecf.eu.org
+hk.cf.zhetengsha.eu.org
+sg.cf.zhetengsha.eu.org
+us.cf.zhetengsha.eu.org
+jp.cf.zhetengsha.eu.org
 proxyip.kr.prianganmedia.eu.org
 proxyip.de.prianganmedia.eu.org
 proxyip.hk.prianganmedia.eu.org
